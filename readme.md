@@ -1,7 +1,7 @@
 This website is not an official version of "Kinoman.uz" and only serves as an option for future updates of the official one. The update was built utilizing HTML, CSS, and JavaScript and features an enhanced user-friendly interface, along with responsive design and interactive elements. Additionally the update brings more optmized performance ensuring smooth and fast experience on many devices. 
  
 In order to access website please click on the link below:
-[Link]
+https://m7x1z11.github.io/WT_CW1/home.html
  
 We would very much appreciate your feedback and suggestions for the update. It helps us in making the experience all the more satisfying. 
  
